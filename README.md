@@ -70,7 +70,7 @@ python bot.py
 
 ## 🤝 Contribute
 
-If you want to contribute, contact me!
+If you want to contribute to add multiple language, contact me!
 
 ## 📜 License
 
