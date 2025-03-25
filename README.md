@@ -1,5 +1,6 @@
 # 🚀 ጸረ አሉታዊ Bot
 
+![image](https://github.com/user-attachments/assets/92c75162-2f89-49c7-866f-2d37564f8caa)
 
 
 A powerful *Telegram bot* that detects and removes hate speech in group chats using *NLP*. It warns users, notifies admins, and removes repeat offenders automatically. You can try the bot here: [@tserealutawi\_bot]\(https\://t.me/tserealutawi\_bot)
