@@ -73,10 +73,6 @@ python bot.py
 
 If you want to contribute to add multiple language, contact me!
 
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
 ---
 
 🔥 Developed with ❤️ to keep communities safe!
